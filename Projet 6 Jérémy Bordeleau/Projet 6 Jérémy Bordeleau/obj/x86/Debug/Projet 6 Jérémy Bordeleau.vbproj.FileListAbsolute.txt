@@ -16,3 +16,12 @@ U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\bi
 U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.form1.resources
 U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.Resources.resources
 U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.vbproj.GenerateResource.Cache
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.exe
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.xml
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.pdb
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.form1.resources
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.Resources.resources
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.vbproj.GenerateResource.Cache
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.exe
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.pdb
+U:\VB\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.xml

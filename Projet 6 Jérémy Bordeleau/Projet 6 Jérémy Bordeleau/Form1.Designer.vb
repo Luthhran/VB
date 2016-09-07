@@ -113,7 +113,7 @@ Partial Class form1
         Me.Txt60 = New System.Windows.Forms.TextBox()
         Me.Txt68 = New System.Windows.Forms.TextBox()
         Me.Txt69 = New System.Windows.Forms.TextBox()
-        Me.text70 = New System.Windows.Forms.TextBox()
+        Me.TxT70 = New System.Windows.Forms.TextBox()
         Me.Txt78 = New System.Windows.Forms.TextBox()
         Me.Txt79 = New System.Windows.Forms.TextBox()
         Me.Txt80 = New System.Windows.Forms.TextBox()
@@ -158,6 +158,7 @@ Partial Class form1
         Me.Txt1.Name = "Txt1"
         Me.Txt1.Size = New System.Drawing.Size(20, 34)
         Me.Txt1.TabIndex = 2
+        Me.Txt1.Text = "1"
         '
         'Txt5
         '
@@ -708,6 +709,7 @@ Partial Class form1
         Me.Txt17.Name = "Txt17"
         Me.Txt17.Size = New System.Drawing.Size(20, 34)
         Me.Txt17.TabIndex = 56
+        Me.Txt17.Text = "1"
         '
         'Txt19
         '
@@ -1029,15 +1031,15 @@ Partial Class form1
         Me.Txt69.Size = New System.Drawing.Size(20, 34)
         Me.Txt69.TabIndex = 88
         '
-        'text70
+        'TxT70
         '
-        Me.text70.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.text70.Location = New System.Drawing.Point(461, 312)
-        Me.text70.MaxLength = 1
-        Me.text70.Multiline = True
-        Me.text70.Name = "text70"
-        Me.text70.Size = New System.Drawing.Size(20, 34)
-        Me.text70.TabIndex = 89
+        Me.TxT70.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.TxT70.Location = New System.Drawing.Point(461, 312)
+        Me.TxT70.MaxLength = 1
+        Me.TxT70.Multiline = True
+        Me.TxT70.Name = "TxT70"
+        Me.TxT70.Size = New System.Drawing.Size(20, 34)
+        Me.TxT70.TabIndex = 89
         '
         'Txt78
         '
@@ -1185,7 +1187,7 @@ Partial Class form1
         Me.Controls.Add(Me.Txt80)
         Me.Controls.Add(Me.Txt79)
         Me.Controls.Add(Me.Txt78)
-        Me.Controls.Add(Me.text70)
+        Me.Controls.Add(Me.TxT70)
         Me.Controls.Add(Me.Txt69)
         Me.Controls.Add(Me.Txt68)
         Me.Controls.Add(Me.Txt60)
@@ -1373,7 +1375,7 @@ Partial Class form1
     Friend WithEvents Txt60 As System.Windows.Forms.TextBox
     Friend WithEvents Txt68 As System.Windows.Forms.TextBox
     Friend WithEvents Txt69 As System.Windows.Forms.TextBox
-    Friend WithEvents text70 As System.Windows.Forms.TextBox
+    Friend WithEvents TxT70 As System.Windows.Forms.TextBox
     Friend WithEvents Txt78 As System.Windows.Forms.TextBox
     Friend WithEvents Txt79 As System.Windows.Forms.TextBox
     Friend WithEvents Txt80 As System.Windows.Forms.TextBox
