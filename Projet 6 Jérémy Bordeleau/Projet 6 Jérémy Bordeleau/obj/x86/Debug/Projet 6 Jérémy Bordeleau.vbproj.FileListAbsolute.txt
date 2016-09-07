@@ -1,0 +1,18 @@
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.exe
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.pdb
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.xml
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.Form1.resources
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.Resources.resources
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.vbproj.GenerateResource.Cache
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.exe
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.xml
+C:\Users\jerbordeleau\AppData\Local\Temporary Projects\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.pdb
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.exe
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.xml
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.pdb
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.exe
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.pdb
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\bin\Debug\Projet 6 Jérémy Bordeleau.xml
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.form1.resources
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet_6_Jérémy_Bordeleau.Resources.resources
+U:\Onmi\Visual Basics\Projet 6 Jérémy Bordeleau\Projet 6 Jérémy Bordeleau\obj\x86\Debug\Projet 6 Jérémy Bordeleau.vbproj.GenerateResource.Cache
