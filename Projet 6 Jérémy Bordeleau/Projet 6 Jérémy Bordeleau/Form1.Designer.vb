@@ -127,6 +127,7 @@ Partial Class form1
         Me.CMDCorrect = New System.Windows.Forms.Button()
         Me.CMDend = New System.Windows.Forms.Button()
         Me.CMDRules = New System.Windows.Forms.Button()
+        Me.CmdReset = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Txt8
@@ -138,6 +139,7 @@ Partial Class form1
         Me.Txt8.Name = "Txt8"
         Me.Txt8.Size = New System.Drawing.Size(20, 34)
         Me.Txt8.TabIndex = 0
+        Me.Txt8.Text = "1"
         '
         'Txt21
         '
@@ -189,6 +191,7 @@ Partial Class form1
         Me.Txt3.Name = "Txt3"
         Me.Txt3.Size = New System.Drawing.Size(20, 34)
         Me.Txt3.TabIndex = 5
+        Me.Txt3.Text = "1"
         '
         'Txt31
         '
@@ -209,6 +212,7 @@ Partial Class form1
         Me.Txt2.Name = "Txt2"
         Me.Txt2.Size = New System.Drawing.Size(20, 34)
         Me.Txt2.TabIndex = 7
+        Me.Txt2.Text = "0"
         '
         'Txt6
         '
@@ -229,6 +233,7 @@ Partial Class form1
         Me.Txt11.Name = "Txt11"
         Me.Txt11.Size = New System.Drawing.Size(20, 34)
         Me.Txt11.TabIndex = 9
+        Me.Txt11.Text = "0"
         '
         'Txt7
         '
@@ -289,16 +294,18 @@ Partial Class form1
         Me.Txt91.Name = "Txt91"
         Me.Txt91.Size = New System.Drawing.Size(20, 34)
         Me.Txt91.TabIndex = 15
+        Me.Txt91.Text = "1"
         '
         'Txt81
         '
         Me.Txt81.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt81.Location = New System.Drawing.Point(21, 392)
+        Me.Txt81.Location = New System.Drawing.Point(21, 396)
         Me.Txt81.MaxLength = 1
         Me.Txt81.Multiline = True
         Me.Txt81.Name = "Txt81"
         Me.Txt81.Size = New System.Drawing.Size(20, 34)
         Me.Txt81.TabIndex = 16
+        Me.Txt81.Text = "0"
         '
         'Txt61
         '
@@ -309,6 +316,7 @@ Partial Class form1
         Me.Txt61.Name = "Txt61"
         Me.Txt61.Size = New System.Drawing.Size(20, 34)
         Me.Txt61.TabIndex = 17
+        Me.Txt61.Text = "1"
         '
         'Txt71
         '
@@ -329,6 +337,7 @@ Partial Class form1
         Me.Txt62.Name = "Txt62"
         Me.Txt62.Size = New System.Drawing.Size(20, 34)
         Me.Txt62.TabIndex = 19
+        Me.Txt62.Text = "0"
         '
         'Txt52
         '
@@ -393,12 +402,13 @@ Partial Class form1
         'Txt82
         '
         Me.Txt82.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt82.Location = New System.Drawing.Point(74, 392)
+        Me.Txt82.Location = New System.Drawing.Point(74, 396)
         Me.Txt82.MaxLength = 1
         Me.Txt82.Multiline = True
         Me.Txt82.Name = "Txt82"
         Me.Txt82.Size = New System.Drawing.Size(20, 34)
         Me.Txt82.TabIndex = 26
+        Me.Txt82.Text = "0"
         '
         'Txt43
         '
@@ -439,6 +449,7 @@ Partial Class form1
         Me.Txt92.Name = "Txt92"
         Me.Txt92.Size = New System.Drawing.Size(20, 34)
         Me.Txt92.TabIndex = 30
+        Me.Txt92.Text = "1"
         '
         'Txt13
         '
@@ -463,7 +474,7 @@ Partial Class form1
         'Txt83
         '
         Me.Txt83.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt83.Location = New System.Drawing.Point(125, 392)
+        Me.Txt83.Location = New System.Drawing.Point(125, 396)
         Me.Txt83.MaxLength = 1
         Me.Txt83.Multiline = True
         Me.Txt83.Name = "Txt83"
@@ -489,6 +500,7 @@ Partial Class form1
         Me.Txt63.Name = "Txt63"
         Me.Txt63.Size = New System.Drawing.Size(20, 34)
         Me.Txt63.TabIndex = 35
+        Me.Txt63.Text = "1"
         '
         'Txt53
         '
@@ -563,7 +575,7 @@ Partial Class form1
         'Txt84
         '
         Me.Txt84.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt84.Location = New System.Drawing.Point(173, 392)
+        Me.Txt84.Location = New System.Drawing.Point(173, 396)
         Me.Txt84.MaxLength = 1
         Me.Txt84.Multiline = True
         Me.Txt84.Name = "Txt84"
@@ -609,6 +621,7 @@ Partial Class form1
         Me.Txt45.Name = "Txt45"
         Me.Txt45.Size = New System.Drawing.Size(20, 34)
         Me.Txt45.TabIndex = 47
+        Me.Txt45.Text = "0"
         '
         'Txt35
         '
@@ -633,7 +646,7 @@ Partial Class form1
         'Txt85
         '
         Me.Txt85.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt85.Location = New System.Drawing.Point(223, 392)
+        Me.Txt85.Location = New System.Drawing.Point(223, 396)
         Me.Txt85.MaxLength = 1
         Me.Txt85.Multiline = True
         Me.Txt85.Name = "Txt85"
@@ -730,6 +743,7 @@ Partial Class form1
         Me.Txt20.Name = "Txt20"
         Me.Txt20.Size = New System.Drawing.Size(20, 34)
         Me.Txt20.TabIndex = 58
+        Me.Txt20.Text = "1"
         '
         'Txt26
         '
@@ -750,6 +764,7 @@ Partial Class form1
         Me.Txt56.Name = "Txt56"
         Me.Txt56.Size = New System.Drawing.Size(20, 34)
         Me.Txt56.TabIndex = 60
+        Me.Txt56.Text = "0"
         '
         'Txt46
         '
@@ -760,6 +775,7 @@ Partial Class form1
         Me.Txt46.Name = "Txt46"
         Me.Txt46.Size = New System.Drawing.Size(20, 34)
         Me.Txt46.TabIndex = 61
+        Me.Txt46.Text = "1"
         '
         'Txt36
         '
@@ -770,6 +786,7 @@ Partial Class form1
         Me.Txt36.Name = "Txt36"
         Me.Txt36.Size = New System.Drawing.Size(20, 34)
         Me.Txt36.TabIndex = 62
+        Me.Txt36.Text = "0"
         '
         'Txt76
         '
@@ -794,12 +811,13 @@ Partial Class form1
         'Txt86
         '
         Me.Txt86.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt86.Location = New System.Drawing.Point(273, 392)
+        Me.Txt86.Location = New System.Drawing.Point(273, 396)
         Me.Txt86.MaxLength = 1
         Me.Txt86.Multiline = True
         Me.Txt86.Name = "Txt86"
         Me.Txt86.Size = New System.Drawing.Size(20, 34)
         Me.Txt86.TabIndex = 65
+        Me.Txt86.Text = "1"
         '
         'Txt96
         '
@@ -850,6 +868,7 @@ Partial Class form1
         Me.Txt30.Name = "Txt30"
         Me.Txt30.Size = New System.Drawing.Size(20, 34)
         Me.Txt30.TabIndex = 70
+        Me.Txt30.Text = "1"
         '
         'Txt37
         '
@@ -900,6 +919,7 @@ Partial Class form1
         Me.Txt47.Name = "Txt47"
         Me.Txt47.Size = New System.Drawing.Size(20, 34)
         Me.Txt47.TabIndex = 75
+        Me.Txt47.Text = "0"
         '
         'Txt48
         '
@@ -964,12 +984,13 @@ Partial Class form1
         'Txt87
         '
         Me.Txt87.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt87.Location = New System.Drawing.Point(316, 392)
+        Me.Txt87.Location = New System.Drawing.Point(316, 396)
         Me.Txt87.MaxLength = 1
         Me.Txt87.Multiline = True
         Me.Txt87.Name = "Txt87"
         Me.Txt87.Size = New System.Drawing.Size(20, 34)
         Me.Txt87.TabIndex = 82
+        Me.Txt87.Text = "1"
         '
         'Txt97
         '
@@ -1070,11 +1091,12 @@ Partial Class form1
         Me.Txt80.Name = "Txt80"
         Me.Txt80.Size = New System.Drawing.Size(20, 34)
         Me.Txt80.TabIndex = 92
+        Me.Txt80.Text = "1"
         '
         'Txt89
         '
         Me.Txt89.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt89.Location = New System.Drawing.Point(414, 392)
+        Me.Txt89.Location = New System.Drawing.Point(414, 396)
         Me.Txt89.MaxLength = 1
         Me.Txt89.Multiline = True
         Me.Txt89.Name = "Txt89"
@@ -1084,7 +1106,7 @@ Partial Class form1
         'Txt88
         '
         Me.Txt88.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt88.Location = New System.Drawing.Point(364, 392)
+        Me.Txt88.Location = New System.Drawing.Point(364, 396)
         Me.Txt88.MaxLength = 1
         Me.Txt88.Multiline = True
         Me.Txt88.Name = "Txt88"
@@ -1094,12 +1116,13 @@ Partial Class form1
         'Txt90
         '
         Me.Txt90.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt90.Location = New System.Drawing.Point(461, 392)
+        Me.Txt90.Location = New System.Drawing.Point(461, 396)
         Me.Txt90.MaxLength = 1
         Me.Txt90.Multiline = True
         Me.Txt90.Name = "Txt90"
         Me.Txt90.Size = New System.Drawing.Size(20, 34)
         Me.Txt90.TabIndex = 95
+        Me.Txt90.Text = "1"
         '
         'Txt98
         '
@@ -1110,6 +1133,7 @@ Partial Class form1
         Me.Txt98.Name = "Txt98"
         Me.Txt98.Size = New System.Drawing.Size(20, 34)
         Me.Txt98.TabIndex = 96
+        Me.Txt98.Text = "1"
         '
         'Txt99
         '
@@ -1120,6 +1144,7 @@ Partial Class form1
         Me.Txt99.Name = "Txt99"
         Me.Txt99.Size = New System.Drawing.Size(20, 34)
         Me.Txt99.TabIndex = 97
+        Me.Txt99.Text = "1"
         '
         'Txt100
         '
@@ -1130,6 +1155,7 @@ Partial Class form1
         Me.Txt100.Name = "Txt100"
         Me.Txt100.Size = New System.Drawing.Size(20, 34)
         Me.Txt100.TabIndex = 98
+        Me.Txt100.Text = "0"
         '
         'EtiAuteur
         '
@@ -1167,6 +1193,15 @@ Partial Class form1
         Me.CMDRules.Text = "Instructions"
         Me.CMDRules.UseVisualStyleBackColor = True
         '
+        'CmdReset
+        '
+        Me.CmdReset.Location = New System.Drawing.Point(125, 509)
+        Me.CmdReset.Name = "CmdReset"
+        Me.CmdReset.Size = New System.Drawing.Size(87, 23)
+        Me.CmdReset.TabIndex = 103
+        Me.CmdReset.Text = "Reccomencer"
+        Me.CmdReset.UseVisualStyleBackColor = True
+        '
         'form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1174,6 +1209,7 @@ Partial Class form1
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.ClientSize = New System.Drawing.Size(493, 535)
+        Me.Controls.Add(Me.CmdReset)
         Me.Controls.Add(Me.CMDRules)
         Me.Controls.Add(Me.CMDend)
         Me.Controls.Add(Me.CMDCorrect)
@@ -1389,5 +1425,6 @@ Partial Class form1
     Friend WithEvents CMDCorrect As System.Windows.Forms.Button
     Friend WithEvents CMDend As System.Windows.Forms.Button
     Friend WithEvents CMDRules As System.Windows.Forms.Button
+    Friend WithEvents CmdReset As System.Windows.Forms.Button
 
 End Class
