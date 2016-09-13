@@ -17,4 +17,9 @@
     Private Sub CmdReset_Click(sender As System.Object, e As System.EventArgs) Handles CmdReset.Click
         Application.Restart()
     End Sub
+
+    Private Sub CMDRules_Click(sender As System.Object, e As System.EventArgs) Handles CMDRules.Click
+        'Ce bouton cite les instructions
+        MsgBox("Remplis chaques cases. Chaque lignes doit contenir cinq 1 et cinq 0. Il ne peut pas y avoir plus de deux 0 out deux 1 un a côté de l'autre.")
+    End Sub
 End Class
